@@ -1,6 +1,6 @@
 # rest_api
 
-A new Flutter project.
+exploring_photos_api Flutter project in this project we explore rest api in flutter and used http package to get the data and parsed json data in a List for creating user interface.
 
 ## Getting Started
 
